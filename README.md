@@ -1,2 +1,2 @@
-#My Sample Repo
+# My Sample Repo
 This is my sample repository
